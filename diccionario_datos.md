@@ -24,19 +24,19 @@ For a dictionary describing yellow and green taxi data, or a map of the TLC Taxi
 ### Estructura del Diccionario
 | Field Name                    | Description                                                                                           |
 |-------------------------------|-------------------------------------------------------------------------------------------------------|
-| Hvfhs_license_num              | The TLC license number of the HVFHS base or business As of September 2019, the HVFHS licensees are the  following:                                                                            
+| hvfhs_license_num              | The TLC license number of the HVFHS base or business As of September 2019, the HVFHS licensees are the  following:                                                                            
 |                               | • HV0002: Juno                                                                                       |
 |                               | • HV0003: Uber                                                                                       |
 |                               | • HV0004: Via                                                                                        |
 |                               | • HV0005: Lyft                                                                                       |
-| Dispatching_base_num           | The TLC Base License Number of the base that dispatched the trip                                         |
-| Pickup_datetime               | The date and time of the trip pick-up                                                                 |
-| DropOff_datetime               | The date and time of the trip drop-off                                                                |
+| dispatching_base_num           | The TLC Base License Number of the base that dispatched the trip                                         |
+| originating_base_num           | The TLC Base License Number of the base that originated the trip                                         |
+| request_datetime               | The date and time the trip was requested                                                               |
+| on_scene_datetime               | The date and time the trip was arrived at the scene                                                               |
+| pickup_datetime               | The date and time of the trip pick-up                                                                 |
+| dropoff_datetime               | The date and time of the trip drop-off                                                                |
 | PULocationID                  | TLC Taxi Zone in which the trip began                                                                 |
 | DOLocationID                  | TLC Taxi Zone in which the trip ended                                                                 |
-| originating_base_num           | Base number of the base that received the original trip request                                        |
-| request_datetime               | Date/time when passenger requested to be picked up                                                     |
-| on_scene_datetime              | Date/time when driver arrived at the pick-up location (Accessible Vehicles-only)                        |
 | trip_miles                     | Total miles for passenger trip                                                                        |
 | trip_time                      | Total time in seconds for passenger trip                                                              |
 | base_passenger_fare            | Base passenger fare before tolls, tips, taxes, and fees                                                |
