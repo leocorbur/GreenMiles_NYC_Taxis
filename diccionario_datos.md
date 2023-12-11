@@ -12,7 +12,8 @@ Este DICCIONARIO proporciona una descripción detallada de los diccionarios de d
     - [Estructura del Diccionario](#estructura-del-diccionario-1)
   - [Diccionario de Datos Contaminación - Open Weather](#diccionario-de-datos-contaminación---open-weather)
     - [Estructura del Diccionario](#estructura-del-diccionario-2)
-
+  - [Diccionario de Air Quality and Health Impacts](#diccionario-de-datos-air-quality-and-ealth-impacts)
+    - [Estructura del Diccionario](#estructura-del-diccionario)
 
 
 ## Diccionario de High Volume FHV Trip Records
@@ -113,3 +114,23 @@ Fechas:
   - **components.pm2_5:** Concentration of PM2.5 (Fine particles matter), μg/m3
   - **components.pm10:** Concentration of PM10 (Coarse particulate matter), μg/m3
 
+## Diccionario de Datos Diccionario de Air Quality and Health Impacts
+
+The NYC Environment & Health Data Portal shows how environments affect health, by publishing data and information that explain the connection.  This dataset includes neighborhood averages of different air pollutants, estimates of emissions from buildings, traffic volumes and health impacts of air pollution.  To explore this data alongside other NYC Environment and Health indicators,   [go to](http://nyc.gov/health/environmentdata)
+
+
+### Estructura del Diccionario
+| Column Name                                          | Column Description                                                 |
+|---------------------------------------------------------------------------------------------------------------------------|
+| unique_id	                                           | Unique record identifier                                           |
+| indicator_id	                                       | Identifier of the type of measured value across time and space     |
+| name	                                               | Name of the indicator                                              |
+| measure	                                             | How the indicator is measured                                      |
+| measure_info	                                       | Information (such as units) about the measure                      |
+| geo_type_name	                                       | Geography type                                                     |
+| geo_place_name	                                     | Neighborhood name                                                  |
+| data_value	                                         | The actual data value for this indicator, measure, place, and time |
+| Stations	                                           | Winter, Summer                                                     |
+| Final Date                                           | Year
+
+ 
