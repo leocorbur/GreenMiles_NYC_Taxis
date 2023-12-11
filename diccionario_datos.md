@@ -12,7 +12,7 @@ Este DICCIONARIO proporciona una descripción detallada de los diccionarios de d
     - [Estructura del Diccionario](#estructura-del-diccionario-1)
   - [Diccionario de Datos Contaminación - Open Weather](#diccionario-de-datos-contaminación---open-weather)
     - [Estructura del Diccionario](#estructura-del-diccionario-2)
-  - [Diccionario de Air Quality and Health Impacts](#diccionario-de-datos-air-quality-and-ealth-impacts)
+  - [Diccionario de Datos Air Quality and Health Impacts](#diccionario-de-datos-air-quality-and-ealth-impacts)
     - [Estructura del Diccionario](#estructura-del-diccionario)
 
 
