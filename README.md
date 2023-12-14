@@ -104,11 +104,17 @@ Este stack tecnológico integral nos brinda las herramientas necesarias para ges
 
 # KPIs Propuestos
 
-- 1
-- 2
-- 3
-- 4
-- 5
+Se proponen los siguientes KPIs en una medición mensual:
+
+-  🎯 Reducir el promedio de tiempo de espera del cliente para tomar un viaje 
+-  🎯 Incrementar el numero de viajes en un 2% con respecto al mes anterior
+-  🎯 Incrementar la ganancias por viajes en 2% con respecto al mes anterior
+-  🎯 Reducir el promedio de emisiones de CO2 
+-  🎯 El promedio de la autonomía de los vehículos sea > 300km
+
+El siguiente KPI es de forma anual:
+
+-  🎯 La flota de automóviles eléctricos se incremente en un 15% anualmente
 
 # Diagrama de Gantt
 
@@ -118,7 +124,14 @@ Este stack tecnológico integral nos brinda las herramientas necesarias para ges
 
 <p align=center><img src=./imagenes/Matriz_de_Responsabilidades.jpg><p>
 
+# Roles y Responsabilidades:
 
+-	Roberto Schaefer: Data Sciencist / Machine Learning
+-	Diego Sebastian Drajlin Gordon: Data Sciencist / Machine Learning
+-	Bruno Mangione: Data Analyst / Business Intelligence
+-	Leonel Tonatiuh Cortez Burgos: Data Engineer
+-	Rafael Gabriel Alvarez Leon: Data Analyst / Business Intelligence
+-	Jorge Andrés González Gómez: Data Engineer
 
 # Información Adicional
 
