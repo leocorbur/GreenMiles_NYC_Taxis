@@ -2,9 +2,7 @@
 
 ¡Bienvenidos a GreenMiles NYC Taxis! 🚀 Nuestro equipo ha sido contratado por esta empresa con el objetivo de respaldar su proceso de toma de decisiones en relación con las opciones de inversión en el sector de transporte de pasajeros mediante un análisis basado en datos.
 
-<p align='center'>
-<img src="../imagenes/CreativeData.png"  height=300>
-<p>
+<p align=center><img src=./imagenes/CreativeData.png><p>
 
 # Contexto
 
