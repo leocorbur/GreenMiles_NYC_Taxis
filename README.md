@@ -4,6 +4,16 @@ Somos CREATIVE DATA TECHNOLOGY, una empresa joven que se dedica al proceso compl
 
 <p align=center><img src=./imagenes/CreativeData.png><p>
 
+El equipo de trabajo se compone de los siguientes integrantes: 
+	Roberto Schaefer
+	Diego Sebastian Drajlin Gordon
+	Bruno Mangione
+	Leonel Tonatiuh Cortez Burgos
+	Rafael Gabriel Alvarez Leon
+	Jorge Andrés González Gómez
+
+
+
 # Contexto
 
 En la ciudad de Nueva York, los servicios de taxis y viajes compartidos, como Uber, han transformado la movilidad urbana al ofrecer una alternativa conveniente y accesible al transporte público y al alquiler de automóviles. Estos servicios generan grandes cantidades de datos en tiempo real, que pueden ser analizados para identificar patrones de viaje, demanda y mejorar la eficiencia del servicio.
