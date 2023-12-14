@@ -104,11 +104,11 @@ Este stack tecnológico integral nos brinda las herramientas necesarias para ges
 
 # KPIs Propuestos
 
-1
-2
-3
-4
-5
+- 1
+- 2
+- 3
+- 4
+- 5
 
 # Diagrama de Gantt
 
