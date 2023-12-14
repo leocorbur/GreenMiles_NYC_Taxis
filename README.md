@@ -1,6 +1,6 @@
 # <h1 align="center">**`GreenMiles NYC Taxis`**</h1>
 
-¡Bienvenidos a GreenMiles NYC Taxis! 🚀 Nuestro equipo ha sido contratado por esta empresa con el objetivo de respaldar su proceso de toma de decisiones en relación con las opciones de inversión en el sector de transporte de pasajeros mediante un análisis basado en datos.
+Somos CREATIVE DATA TECHNOLOGY, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
 
 <p align=center><img src=./imagenes/CreativeData.png><p>
 
