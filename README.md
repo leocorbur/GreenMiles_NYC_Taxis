@@ -5,12 +5,12 @@ Somos CREATIVE DATA TECHNOLOGY, una empresa joven que se dedica al proceso compl
 <p align=center><img src=./imagenes/CreativeData.png><p>
 
 El equipo de trabajo se compone de los siguientes integrantes: 
-	Roberto Schaefer
-	Diego Sebastian Drajlin Gordon
-	Bruno Mangione
-	Leonel Tonatiuh Cortez Burgos
-	Rafael Gabriel Alvarez Leon
-	Jorge Andrés González Gómez
+* Roberto Schaefer
+* Diego Sebastian Drajlin Gordon
+* Bruno Mangione
+* Leonel Tonatiuh Cortez Burgos
+* Rafael Gabriel Alvarez Leon
+* Jorge Andrés González Gómez
 
 
 
