@@ -4,14 +4,33 @@ Somos CREATIVE DATA TECHNOLOGY, una empresa joven que se dedica al proceso compl
 
 <p align=center><img src=./imagenes/CreativeData.png><p>
 
+El equipo de trabajo se compone de los siguientes integrantes: 
+-	Roberto Schaefer
+-	Diego Sebastian Drajlin Gordon
+-	Bruno Mangione
+-	Leonel Tonatiuh Cortez Burgos
+-	Rafael Gabriel Alvarez Leon
+-	Jorge Andrés González Gómez
+
+
+# Introducción
+
+GreenMiles NYC Taxis es una empresa de transporte de pasajeros de la ciudad de Nueva York, que actualmente se encuentra operando en el sector de micros de media y larga distancia y está interesada en invertir en el sector de transporte de pasajeros de automóviles. 
+La empresa nos ha contratado para analizar los movimientos de los taxis actuales en la ciudad de Nueva York, analizar datos históricos y las tendencias futuras del mercado, para que podamos acompañarlos en el proceso de la toma de decisión. 
+
+GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar 
+
+<p align=center><img src=./imagenes/GreenMiles.png><p>
+
+
+
 # Contexto
 
 En la ciudad de Nueva York, los servicios de taxis y viajes compartidos, como Uber, han transformado la movilidad urbana al ofrecer una alternativa conveniente y accesible al transporte público y al alquiler de automóviles. Estos servicios generan grandes cantidades de datos en tiempo real, que pueden ser analizados para identificar patrones de viaje, demanda y mejorar la eficiencia del servicio.
 
 Además, en respuesta al cambio climático acelerado por actividades humanas, la sostenibilidad se ha vuelto crucial en el desarrollo energético. Las compañías  y las autoridades locales de Nueva York están tomando medidas para medir y mejorar la eficiencia energética y reducir su impacto ambiental.
 
-En este sentido, la empresa **Creative Data Technology** ha sido contratada por la empresa GreenMiles NYC, para el estudio e interpretación de los datos disponibles y libres en las distintas fuentes.
-
+En este sentido, hemos sido contratados por la empresa GreenMiles NYC, para el estudio e interpretación de los datos disponibles y libres en las distintas fuentes.
 
 La propuesta contempla la implementación de vehículos eléctricos tomando en cuenta la iniciativa viajes verdes impulsada por la Comisión de Limusinas y Taxis de la Ciudad (TLC, por sus siglas en inglés) y establece que, a partir de 2024, Nueva York requerirá que el 5 % de todos los viajes de alquiler de gran volumen, se envíen a vehículos eléctricos. 
 
@@ -82,6 +101,22 @@ En nuestro proyecto, hemos seleccionado cuidadosamente un stack tecnológico que
    - Para la visualización de datos y el desarrollo de aplicaciones interactivas, hemos elegido Streamlit como nuestro framework principal. Su simplicidad y flexibilidad nos permitirán crear interfaces intuitivas y atractivas.
 
 Este stack tecnológico integral nos brinda las herramientas necesarias para gestionar grandes conjuntos de datos, realizar análisis complejos y presentar de manera efectiva los resultados a través de interfaces interactivas. Estamos comprometidos a aprovechar al máximo estas tecnologías para respaldar nuestro análisis y facilitar la toma de decisiones basada en datos.
+
+# KPIs Propuestos
+
+1
+2
+3
+4
+5
+
+# Diagrama de Gantt
+
+<p align=center><img src=./imagenes/Diagrama-Gantt.jpg><p>
+
+# Matriz de Responsabilidades
+
+<p align=center><img src=./imagenes/Matriz_de_Responsabilidades.jpg><p>
 
 
 
