@@ -18,7 +18,8 @@ El equipo de trabajo se compone de los siguientes integrantes:
 GreenMiles NYC Taxis es una empresa de transporte de pasajeros de la ciudad de Nueva York, que actualmente se encuentra operando en el sector de micros de media y larga distancia y está interesada en invertir en el sector de transporte de pasajeros de automóviles. 
 La empresa nos ha contratado para analizar los movimientos de los taxis actuales en la ciudad de Nueva York, analizar datos históricos y las tendencias futuras del mercado, para que podamos acompañarlos en el proceso de la toma de decisión. 
 
-GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar 
+GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar y trabajar con los mismos.
+
 
 <p align=center><img src=./imagenes/LogoGreenMiles.png width="400"><p>
 
@@ -110,11 +111,11 @@ Se proponen los siguientes KPIs en una medición mensual:
 -  🎯 Incrementar el numero de viajes en un 2% con respecto al mes anterior
 -  🎯 Incrementar la ganancias por viajes en 2% con respecto al mes anterior
 -  🎯 Reducir el promedio de emisiones de CO2 
--  🎯 El promedio de la autonomía de los vehículos sea > 300km
 
 El siguiente KPI es de forma anual:
 
 -  🎯 La flota de automóviles eléctricos se incremente en un 15% anualmente
+-  🎯 El promedio de la autonomía de los vehículos sea > 300km
 
 # Diagrama de Gantt
 
