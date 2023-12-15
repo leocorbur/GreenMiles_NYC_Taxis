@@ -126,8 +126,8 @@ El siguiente KPI es de forma anual:
 
 # Roles y Responsabilidades:
 
--	Roberto Schaefer: Data Sciencist / Machine Learning
--	Diego Sebastian Drajlin Gordon: Data Sciencist / Machine Learning
+-	Roberto Schaefer: Data Scientist / Machine Learning
+-	Diego Sebastian Drajlin Gordon: Data Scientist / Machine Learning
 -	Bruno Mangione: Data Analyst / Business Intelligence
 -	Leonel Tonatiuh Cortez Burgos: Data Engineer
 -	Rafael Gabriel Alvarez Leon: Data Analyst / Business Intelligence
