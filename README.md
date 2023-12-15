@@ -111,11 +111,11 @@ Se proponen los siguientes KPIs en una medición mensual:
 -  🎯 Incrementar el numero de viajes en un 2% con respecto al mes anterior
 -  🎯 Incrementar la ganancias por viajes en 2% con respecto al mes anterior
 -  🎯 Reducir el promedio de emisiones de CO2 
--  🎯 El promedio de la autonomía de los vehículos sea > 300km
 
 El siguiente KPI es de forma anual:
 
 -  🎯 La flota de automóviles eléctricos se incremente en un 15% anualmente
+-  🎯 El promedio de la autonomía de los vehículos sea > 300km
 
 # Diagrama de Gantt
 
