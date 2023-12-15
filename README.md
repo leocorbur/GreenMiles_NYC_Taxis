@@ -1,6 +1,6 @@
 # <h1 align="center">**`GreenMiles NYC Taxis`**</h1>
 
-Somos CREATIVE DATA TECHNOLOGY, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
+Somos **CREATIVE DATA TECHNOLOGY**, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
 
 <p align=center><img src=./imagenes/CreativeData.png><p>
 
@@ -20,7 +20,7 @@ La empresa nos ha contratado para analizar los movimientos de los taxis actuales
 
 GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar 
 
-<p align=center><img src=./imagenes/GreenMiles.png><p>
+<p align=center><img src=./imagenes/LogoGreenMiles.png width="400"><p>
 
 
 
