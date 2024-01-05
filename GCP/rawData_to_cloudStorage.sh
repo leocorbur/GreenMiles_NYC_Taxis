@@ -58,3 +58,13 @@ curl -LJO "http://api.openweathermap.org/data/2.5/air_pollution/history?lat=40.7
 gsutil cp 'history?lat=40.714&lon=-74.006&start=1606453200&end=1703998800&appid=32ac2c365a2bebaea6273988ff6c9db6' gs://files_raw/json/ 
 gsutil mv gs://files_raw/json/'history?lat=40.714&lon=-74.006&start=1606453200&end=1703998800&appid=32ac2c365a2bebaea6273988ff6c9db6' gs://files_raw/json/airPollution.json
 rm 'history?lat=40.714&lon=-74.006&start=1606453200&end=1703998800&appid=32ac2c365a2bebaea6273988ff6c9db6'
+
+
+"""
+  Decargar de archivos CSV carros electricos Alternative Fuel Vehicles US
+"""
+
+# Descargar, copiar a Cloud Storage y eliminar archivo de la VM
+curl -LJ -o PRUEBA.csv  "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOfO45IOVJId9H"
+gsutil cp PRUEBA.csv gs://files_raw/csv/
+rm PRUEBA.csv
