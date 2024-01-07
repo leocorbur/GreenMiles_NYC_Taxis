@@ -6,8 +6,8 @@ base_url="https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_"
 bucket="gs://files_raw/parquet/"
 
 # Bucle para descargar archivos desde 2020-01 hasta 2023-10
-for year in {2023..2023}; do 
-  for month in {10..12}; do
+for year in {2020..2023}; do 
+  for month in {01..12}; do
     link="${base_url}${year}-${month}.parquet"
     
     # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
