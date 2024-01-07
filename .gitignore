@@ -2,3 +2,6 @@
 /eda/weather_tlc_2020_S1.ipynb
 /eda/.cache.sqlite
 /eda/api_pollution.ipynb
+/GCP/TLC/load_to_bq.py
+/GCP/TLC/tlc_rm_nan.py
+/GCP/TLC/tlc_rm_dup_and_col.py
