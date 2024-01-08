@@ -49,7 +49,7 @@ if blob is not None and blob.exists():
     .save()
     
 else: 
-    print(f"El archivo {gcs_path_input} no existe. Se omite el procesamiento para este mes.")
+    print(f"El archivo {gcs_path_input} no existe.")
 
 # Detener la sesión de Spark
 spark.stop()
