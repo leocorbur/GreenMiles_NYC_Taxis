@@ -33,6 +33,7 @@ for year in {2020..2023}; do
   # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
   curl -LJO "$link"
   gsutil cp "MY${year}%20Fuel%20Consumption%20Ratings.csv" "$bucket"
+  gsutil mv "${bucket}MY${year}%20Fuel%20Consumption%20Ratings.csv" "${bucket}fuelConsumption_${year}.csv"
   rm "MY${year}%20Fuel%20Consumption%20Ratings.csv"
 done
 
