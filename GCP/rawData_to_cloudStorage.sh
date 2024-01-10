@@ -66,7 +66,7 @@ rm 'history?lat=40.714&lon=-74.006&start=1606453200&end=1703998800&appid=32ac2c3
 """
 
 # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
-curl -LJ -o Alternative Fuel Vehicles US.csv  "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOfO45IOVJId9H"
-gsutil cp Alternative Fuel Vehicles US.csv gs://files_raw/csv/
-rm Alternative Fuel Vehicles US.csv
+curl -LJO "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOfO45IOVJId9H"
+gsutil cp 'Alternative Fuel Vehicles US.csv' gs://files_raw/csv/
+rm 'Alternative Fuel Vehicles US.csv'
 
