@@ -70,3 +70,10 @@ curl -LJO "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOf
 gsutil cp 'Alternative Fuel Vehicles US.csv' gs://files_raw/csv/
 rm 'Alternative Fuel Vehicles US.csv'
 
+"""
+  Decarga de archivos CSV precio de carros
+"""
+
+curl -LJO "https://raw.githubusercontent.com/leocorbur/GreenMiles_NYC_Taxis/main/datasets/carPrices.csv"
+gsutil cp carPrices.csv gs://files_raw/csv/
+rm carPrices.csv
