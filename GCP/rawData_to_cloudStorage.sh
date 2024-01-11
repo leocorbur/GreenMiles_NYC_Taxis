@@ -6,8 +6,8 @@ base_url="https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_"
 bucket="gs://files_raw/parquet/"
 
 # Bucle para descargar archivos desde 2020-01 hasta 2023-10
-for year in {2023..2023}; do 
-  for month in {10..12}; do
+for year in {2020..2023}; do 
+  for month in {01..12}; do
     link="${base_url}${year}-${month}.parquet"
     
     # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
@@ -33,6 +33,7 @@ for year in {2020..2023}; do
   # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
   curl -LJO "$link"
   gsutil cp "MY${year}%20Fuel%20Consumption%20Ratings.csv" "$bucket"
+  gsutil mv "${bucket}MY${year}%20Fuel%20Consumption%20Ratings.csv" "${bucket}fuelConsumption_${year}.csv"
   rm "MY${year}%20Fuel%20Consumption%20Ratings.csv"
 done
 
@@ -65,6 +66,14 @@ rm 'history?lat=40.714&lon=-74.006&start=1606453200&end=1703998800&appid=32ac2c3
 """
 
 # Descargar, copiar a Cloud Storage y eliminar archivo de la VM
-curl -LJ -o PRUEBA.csv  "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOfO45IOVJId9H"
-gsutil cp PRUEBA.csv gs://files_raw/csv/
-rm PRUEBA.csv
+curl -LJO "https://drive.google.com/uc?export=download&id=17H43adHQUi0AEUUQUOkOfO45IOVJId9H"
+gsutil cp 'Alternative Fuel Vehicles US.csv' gs://files_raw/csv/
+rm 'Alternative Fuel Vehicles US.csv'
+
+"""
+  Decarga de archivos CSV precio de carros
+"""
+
+curl -LJO "https://raw.githubusercontent.com/leocorbur/GreenMiles_NYC_Taxis/main/datasets/carPrices.csv"
+gsutil cp carPrices.csv gs://files_raw/csv/
+rm carPrices.csv

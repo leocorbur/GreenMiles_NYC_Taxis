@@ -1,0 +1,96 @@
+Year,Manufacturer,Model,co2,co2TailpipeGpm,fuelCost08,fuelCostA08,fuelType,ghgScore,highway08,range,Price
+2023,Audi,A3,276,276,1650,0,Regular,6,38,0,0.0
+2023,Audi,e-tron S (20 inch wheels),0,0,950,0,Electricity,10,75,208,93800.0
+2023,Audi,Q4 e-tron,0,0,700,0,Electricity,10,94,265,55200.0
+2023,Audi,Q4 e-tron Sportback,0,0,750,0,Electricity,10,89,242,63200.0
+2023,BMW,i4 eDrive40 Gran Coupe (19 inch Wheels),0,0,700,0,Electricity,10,98,282,62600.0
+2023,BMW,i4 M50 Gran Coupe (19 inch wheels),0,0,750,0,Electricity,10,98,271,62900.0
+2023,BMW,iX M60 (21 inch wheels),0,0,900,0,Electricity,10,80,288,105990.0
+2023,Cadillac,LYRIQ,0,0,800,0,Electricity,10,82,312,63000.0
+2023,Chevrolet,Bolt EV,0,0,600,0,Electricity,10,109,259,37500.0
+2023,Chevrolet,Malibu,181,181,1750,0,Regular,6,35,400,24700.0
+2023,Chrysler,Voyager,401,401,2400,0,Regular,5,28,640,33995.0
+2023,Ford,Escape AWD,140,140,2050,0,Regular,5,31,780,28795.0
+2023,Ford,Escape AWD HEV,140,140,1350,0,Regular,7,36,780,31295.0
+2023,Ford,Escape FWD,140,140,1750,0,Regular,6,34,780,26295.0
+2023,Ford,Escape FWD HEV,225,225,1350,0,Regular,7,36,0,38500.0
+2023,Ford,F-150 Lightning 4WD,0,0,1050,0,Electricity,10,61,240,56000.0
+2023,Ford,F-150 Lightning 4WD Extended Range,0,0,1000,0,Electricity,10,63,320,138000.0
+2023,Ford,F-150 Lightning Platinum 4WD,0,0,1050,0,Electricity,10,60,300,81000.0
+2023,Ford,MUSTANG MACH-E CAL RT 1 ER AWD,0,0,700,0,Electricity,10,91,312,46900.0
+2023,Ford,Mustang Mach-E GT Performance,0,0,850,0,Electricity,10,77,260,54970.0
+2023,Ford,Mustang Mach-E RWD Extended,0,0,700,0,Electricity,10,92,310,54970.0
+2023,Honda,Accord,277,277,1650,0,Regular,6,37,0,28000.0
+2023,Honda,Accord Hybrid,124,124,1100,0,Regular,8,44,622,33870.0
+2023,Honda,Civic 4Dr,243,243,1500,0,Regular,7,42,0,24650.0
+2023,Honda,Civic 5Dr,267,267,1600,0,Regular,6,37,0,42890.0
+2023,Honda,CR-V Hybrid AWD,237,237,1450,0,Regular,7,34,0,33950.0
+2023,Hyundai,Elantra,245,245,1450,0,Regular,7,42,0,32900.0
+2023,Hyundai,Elantra Hybrid Blue,165,165,1000,0,Regular,9,56,0,34590.0
+2023,Hyundai,Ioniq 6 Long range AWD (18 inch Wheels),0,0,600,0,Electricity,10,111,316,56610.0
+2023,Hyundai,Ioniq 6 Long range RWD (18 inch Wheels),0,0,500,0,Electricity,10,127,361,45500.0
+2023,Hyundai,Ioniq 6 Long range RWD (20 inch Wheels),0,0,600,0,Electricity,10,105,305,49000.0
+2023,Hyundai,Kona Electric,0,0,600,0,Electricity,10,106,258,40795.0
+2023,Hyundai,Santa Fe Hybrid Blue,264,264,1550,0,Regular,7,31,0,36210.0
+2023,Hyundai,Sonata,117,117,1950,0,Regular,5,33,925,34120.0
+2023,Hyundai,Sonata Hybrid,189,189,1150,0,Regular,8,51,0,37120.0
+2023,Jaguar,I-Pace EV400 (22 inch tires),0,0,950,0,Electricity,10,72,217,69900.0
+2023,Kia,EV6 AWD GT,0,0,900,0,Electricity,10,74,206,0.0
+2023,Kia,EV6 Long Range AWD (20 inch tires),0,0,700,0,Electricity,10,86,252,42600.0
+2023,Kia,EV6 Long Range RWD,0,0,600,0,Electricity,10,101,310,45950.0
+2023,Kia,EV6 Standard Range RWD,0,0,600,0,Electricity,10,100,232,52400.0
+2023,Kia,Forte,277,277,1650,0,Regular,6,39,0,0.0
+2023,Kia,Forte FE,261,261,1550,0,Regular,7,41,0,21690.0
+2023,Kia,Niro,181,181,1100,0,Regular,8,45,0,34790.0
+2023,Kia,Niro,42,42,1100,0,Regular,8,45,385,23990.0
+2023,Kia,Niro Electric,0,0,600,0,Electricity,10,101,253,0.0
+2023,Kia,Niro Electric,0,0,600,0,Electricity,10,101,253,39990.0
+2023,Kia,Niro FE,167,167,1000,0,Regular,9,54,0,31390.0
+2023,Kia,Rio,250,250,1500,0,Regular,7,41,0,17490.0
+2023,Kia,Sorento Hybrid AWD,262,262,1550,0,Regular,7,33,0,49800.0
+2023,Lexus,UX 250h,209,209,1250,0,Regular,8,41,0,37230.0
+2023,Lexus,UX 250h AWD,225,225,1350,0,Regular,7,38,0,36170.0
+2023,Lucid,Air G Touring XR AWD with 19 inch wheels,0,0,550,0,Electricity,10,132,516,115000.0
+2023,Mercedes-Benz,EQS 450 4Matic,0,0,650,0,Electricity,10,105,340,113050.0
+2023,Mercedes-Benz,EQS 450 4Matic (SUV),0,0,900,0,Electricity,10,77,285,114470.0
+2023,Nissan,Altima SR,191,191,1850,0,Regular,6,34,800,27225.0
+2023,Nissan,ARIYA ENGAGE FWD 63kWh,0,0,700,0,Electricity,10,94,216,51190.0
+2023,Nissan,ARIYA VENTURE Plus FWD 87kWh,0,0,700,0,Electricity,10,95,304,47190.0
+2023,Nissan,LEAF,0,0,650,0,Electricity,10,99,149,31967.0
+2023,Nissan,LEAF SV,0,0,650,0,Electricity,10,98,212,40717.0
+2023,Nissan,Rogue FWD,271,271,1600,0,Regular,6,37,0,38640.0
+2023,Nissan,Sentra,268,268,1600,0,Regular,6,39,0,22700.0
+2023,Polestar,2 Dual Motor,0,0,700,0,Electricity,10,96,260,56400.0
+2023,Porsche,Taycan 4 Cross Turismo,0,0,900,0,Electricity,10,80,235,150000.0
+2023,Porsche,Taycan GTS,0,0,850,0,Electricity,10,82,246,90300.0
+2023,Porsche,Taycan GTS Sport Turismo,0,0,900,0,Electricity,10,80,233,138000.0
+2023,Porsche,Taycan Perf Battery Plus,0,0,850,0,Electricity,10,88,242,136000.0
+2023,Porsche,Taycan Turbo S,0,0,950,0,Electricity,10,74,222,197676.0
+2023,Subaru,Solterra Limited/Touring AWD,0,0,650,0,Electricity,10,93,222,48490.0
+2023,Tesla,Model 3 Performance AWD,0,0,650,0,Electricity,10,107,315,60990.0
+2023,Tesla,Model 3 RWD,0,0,550,0,Electricity,10,126,272,50714.0
+2023,Tesla,Model S,0,0,600,0,Electricity,10,115,405,87465.0
+2023,Tesla,Model X,0,0,700,0,Electricity,10,97,348,62300.0
+2023,Tesla,Model X Plaid (20 inch wheels),0,0,700,0,Electricity,10,93,333,93910.0
+2023,Tesla,Model X Plaid (22 inch wheels),0,0,800,0,Electricity,10,88,311,85990.0
+2023,Tesla,Model Y AWD,0,0,600,0,Electricity,10,116,279,52990.0
+2023,Tesla,Model Y Long Range AWD,0,0,600,0,Electricity,10,117,330,60000.0
+2023,Tesla,Model Y Performance AWD,0,0,650,0,Electricity,10,106,303,62000.0
+2023,Toyota,bZ4X AWD,0,0,650,0,Electricity,10,94,228,48800.0
+2023,Toyota,bZ4X LIMITED,0,0,650,0,Electricity,10,103,242,46700.0
+2023,Toyota,Camry Hybrid LE,170,170,1000,0,Regular,9,53,0,29160.0
+2023,Toyota,Camry TRD,121,121,2100,0,Regular,5,31,780,35995.0
+2023,Toyota,Camry XSE,121,121,2050,0,Regular,5,32,780,33995.0
+2023,Toyota,Corolla,254,254,1500,0,Regular,7,41,0,26700.0
+2023,Toyota,Highlander Hybrid,245,245,1500,0,Regular,7,35,0,52620.0
+2023,Toyota,Highlander Hybrid AWD LTD/PLAT,253,253,1500,0,Regular,7,34,0,52620.0
+2023,Toyota,Prius,155,155,950,0,Regular,9,56,0,32350.0
+2023,Toyota,Prius XLE/LTD,169,169,1000,0,Regular,9,52,0,35600.0
+2023,Toyota,Sienna 2WD,246,246,1500,0,Regular,7,36,0,44450.0
+2023,Volkswagen,ID.4,0,0,650,0,Electricity,10,99,209,43990.0
+2023,Volkswagen,ID.4 AWD Pro,0,0,700,0,Electricity,10,93,255,45200.0
+2023,Volkswagen,ID.4 AWD Pro S,0,0,700,0,Electricity,10,93,255,51440.0
+2023,Volkswagen,ID.4 Pro,0,0,650,0,Electricity,10,98,275,51440.0
+2023,Volkswagen,Jetta,265,265,1550,0,Regular,7,42,0,31340.0
+2023,Volvo,C40 Recharge twin,0,0,800,0,Electricity,10,80,226,55330.0
+2023,Volvo,XC40 Recharge twin,0,0,850,0,Electricity,10,79,223,49780.0
