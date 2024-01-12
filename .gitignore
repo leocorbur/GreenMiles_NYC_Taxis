@@ -2,3 +2,9 @@
 /eda/weather_tlc_2020_S1.ipynb
 /eda/.cache.sqlite
 /eda/api_pollution.ipynb
+/GCP/TLC/load_to_bq.py
+/GCP/TLC/tlc_rm_nan.py
+/GCP/TLC/tlc_rm_dup_and_col.py
+/GCP/cs_to_bigquery_airPollution.ipynb
+/GCP/cs_to_bigquery_weather.ipynb
+GCP/open-meteo-40.74N74.04W37m.csv
