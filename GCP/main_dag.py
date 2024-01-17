@@ -31,30 +31,11 @@ with DAG(
         dag=dag,
     )
 
-
-    # Operador para ejecutar un script de eliminación de duplicados
-    tlc_remove_duplicates = DataProcPySparkOperator(
-        task_id='remove_duplicates',
-        job_name='transform_parquet_job',
-        main='gs://jobs_dataproc/tlc_rm_dup_and_col_MULTIFILES.py',
-        region='us-central1',
-        cluster_name='cluster-524f'
-    )
-
-    # Operador para ejecutar un script de limpieza de nulos
-    tlc_clean_nulls = DataProcPySparkOperator(
-        task_id='clean_nulls',
-        job_name='transform_parquet_job',
-        main='gs://jobs_dataproc/tlc_rm_nan_MULTIFILES.py',
-        region='us-central1',
-        cluster_name='cluster-524f'
-    )
-
-    # Operador para cargar el archivo en BigQuery
-    tlc_load_task = DataProcPySparkOperator(
-        task_id='load_task',
-        job_name='transform_parquet_job',
-        main='gs://jobs_dataproc/load_to_bq_MULTIFILES.py',
+    # TLC cs_to_bq
+    tlc_task = DataProcPySparkOperator(
+        task_id='tlc_task',
+        job_name='cs_to_bq_tlc',
+        main='gs://jobs_dataproc/cs_to_bigquery_tlc.py',
         region='us-central1',
         cluster_name='cluster-524f'
     )
@@ -112,5 +93,7 @@ with DAG(
     )
 
     # Definir la secuencia de tareas
-    start_task >> tlc_remove_duplicates >> tlc_clean_nulls >> tlc_load_task
-    tlc_load_task >> [weather_task, airPollution_task, fuelConsumption_task, altFuelVehicles_task, carPrices_task] >> finish_task
+    start_task >> tlc_task
+    tlc_task >> [weather_task, airPollution_task]
+    [weather_task, airPollution_task] >> [fuelConsumption_task, altFuelVehicles_task, carPrices_task]
+    [fuelConsumption_task, altFuelVehicles_task, carPrices_task] >> finish_task
