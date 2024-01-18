@@ -2,7 +2,7 @@
 
 Somos **CREATIVE DATA TECHNOLOGY**, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
 
-<p align=center><img src=./imagenes/CreativeData.png><p>
+<p align=center><img src=./src/CreativeData.png><p>
 
 El equipo de trabajo se compone de los siguientes integrantes: 
 -	Roberto Schaefer
@@ -21,7 +21,7 @@ La empresa nos ha contratado para analizar los movimientos de los taxis actuales
 GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar y trabajar con los mismos.
 
 
-<p align=center><img src=./imagenes/LogoGreenMiles.png width="400"><p>
+<p align=center><img src=./src/LogoGreenMiles.png width="400"><p>
 
 
 
@@ -121,11 +121,11 @@ El siguiente KPI es de forma anual:
 
 # Diagrama de Gantt
 
-<p align=center><img src=./imagenes/Diagrama-Gantt.jpg><p>
+<p align=center><img src=./src/Diagrama-Gantt.jpg><p>
 
 # Matriz de Responsabilidades
 
-<p align=center><img src=./imagenes/Matriz_de_Responsabilidades.jpg><p>
+<p align=center><img src=./src/Matriz_de_Responsabilidades.jpg><p>
 
 # Roles y Responsabilidades:
 
@@ -148,7 +148,7 @@ En el Sprint 2, el equipo de Data Engineering ha consolidado un sólido progreso
 
 Dataproc ha demostrado ser instrumental para la ejecución eficiente de scripts ETL, a través del uso de PySpark, permitiéndonos procesar grandes volúmenes de datos de manera distribuida. En paralelo, hemos aprovechado las capacidades de BigQuery como base de datos relacional para la creación de nuestro DataWarehouse, facilitando la realización de consultas SQL rápidas y efectivas.
 
-<p align=center><img src=./imagenes/Workflow.jpeg><p>
+<p align=center><img src=./src/Workflow.jpeg><p>
 
 ## Data Analytics 
 
@@ -157,7 +157,7 @@ A partir de allí, el equipo de DA tuvo reuniones y solicitudes de datos al equi
 Una vez obtenidas las tablas, se hicieron las relaciones y se comenzaron a trabajar en los diferentes dashboards y kpi planteados en el proyecto. 
 Para el sprint final, el equipo de DA, seguirá trabajo en el diseño de los dashboards y completará el análisis junto con el equipo de machine learning para entregar las mejores propuesta a nuestro cliente.
 
-<p align=center><img src=./imagenes/EntidadRelacion.jpeg><p>
+<p align=center><img src=./src/EntidadRelacion.jpeg><p>
 
 ## Machine Learning 
 
@@ -167,7 +167,7 @@ La siguiente fase implica la integración de una nueva variable: el clima. Se an
 
 Además, el equipo está trabajando en un segundo modelo basado en programación lineal. El objetivo de este modelo es optimizar la composición de la flota de taxis, considerando restricciones como la menor emisión de CO2, mayor rango de desplazamiento y costo del vehículo. La optimización se realiza en función de la cantidad de inversión disponible y el porcentaje destinado a vehículos eléctricos.
 
-<p align=center><img src=./imagenes/Streamlit.jpeg><p>
+<p align=center><img src=./src/Streamlit.jpeg><p>
 
 
 

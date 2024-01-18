@@ -34,8 +34,8 @@ with DAG(
     # TLC cs_to_bq
     tlc_task = DataProcPySparkOperator(
         task_id='tlc_task',
-        job_name='cs_to_bq_tlc',
-        main='gs://jobs_dataproc/cs_to_bigquery_tlc.py',
+        job_name='tlc',
+        main='gs://jobs_dataproc/tlc.py',
         region='us-central1',
         cluster_name='cluster-524f'
     )
@@ -43,8 +43,8 @@ with DAG(
     # Weather cs_to_bq
     weather_task = DataProcPySparkOperator(
         task_id = 'weather_task',
-        job_name = 'cs_to_bq_weather',
-        main = 'gs://jobs_dataproc/cs_to_bigquery_weather.py',
+        job_name = 'weather',
+        main = 'gs://jobs_dataproc/weather.py',
         region = 'us-central1',
         cluster_name='cluster-524f'
     )
@@ -52,8 +52,8 @@ with DAG(
     # Air Pollution cs_to_bq
     airPollution_task = DataProcPySparkOperator(
         task_id = 'airPollution_task',
-        job_name = 'cs_to_bq_airPollution',
-        main = 'gs://jobs_dataproc/cs_to_bigquery_airPollution.py',
+        job_name = 'airPollution',
+        main = 'gs://jobs_dataproc/airPollution.py',
         region = 'us-central1',
         cluster_name='cluster-524f'
     )
@@ -61,8 +61,8 @@ with DAG(
     # Fuel Consumption cs_to_bq
     fuelConsumption_task = DataProcPySparkOperator(
         task_id = 'fuelConsumption_task',
-        job_name = 'cs_to_bq_fuelConsumption',
-        main = 'gs://jobs_dataproc/cs_to_bq_fuelConsumption.py',
+        job_name = 'fuelConsumption',
+        main = 'gs://jobs_dataproc/fuelConsumption.py',
         region = 'us-central1',
         cluster_name='cluster-524f'
     )
@@ -70,8 +70,8 @@ with DAG(
     # Alternative Fuel Vehicles cs_to_bq
     altFuelVehicles_task = DataProcPySparkOperator(
         task_id = 'fuelVehicle_task',
-        job_name = 'cs_to_bq_altFuelVehicles',
-        main = 'gs://jobs_dataproc/cs_to_bq_altFuelVehicles.py',
+        job_name = 'altFuelVehicles',
+        main = 'gs://jobs_dataproc/altFuelVehicles.py',
         region = 'us-central1',
         cluster_name='cluster-524f'
     )
@@ -79,8 +79,8 @@ with DAG(
     # Car prices cs_to_bq
     carPrices_task = DataProcPySparkOperator(
         task_id = 'carPrices_task',
-        job_name = 'cs_to_bq_carPrices',
-        main = 'gs://jobs_dataproc/cs_to_bigquery_carPrices.py',
+        job_name = 'carPrices',
+        main = 'gs://jobs_dataproc/carPrices.py',
         region = 'us-central1',
         cluster_name='cluster-524f'
     )
