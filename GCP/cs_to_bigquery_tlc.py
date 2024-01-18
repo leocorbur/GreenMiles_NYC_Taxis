@@ -17,7 +17,6 @@ years = ["2020", "2021", "2022", "2023"]
 months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
 
 # Registro
-file_name = "fhvhv_tripdata"
 file_format = "parquet"
 initial_record_count = 0
 null_values_count = []
@@ -27,6 +26,7 @@ for year in years:
     for month in months:
         # Define la ruta del archivo Parquet en Google Cloud Storage
         gcs_path_input = f"gs://files_raw/parquet/fhvhv_tripdata_{year}-{month}.parquet"
+        file_name = f"fhvhv_tripdata-{year}-{month}"
         
         try:
             # Lee el archivo Parquet en un DataFrame de Spark
