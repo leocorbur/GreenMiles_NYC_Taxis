@@ -1,0 +1,18 @@
+# Librerías estándar
+pandas
+datetime
+
+# Manejo de solicitudes y caché
+openmeteo-requests
+requests
+requests-cache
+retry-requests
+
+# Visualización
+plotly
+
+# Machine learning
+scikit-learn
+
+# Streamlit
+streamlit
