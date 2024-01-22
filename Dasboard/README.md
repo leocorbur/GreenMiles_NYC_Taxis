@@ -11,10 +11,10 @@ Proyecto y Conjunto de Datos:
 El informe se conecta al proyecto "GreenMiles NYC Taxis" y utiliza el conjunto de datos "spheric-base-407402".
 
 Se implementó la siguiente consulta en bigquery para obtener datos específicos:
-
+```
 01
 
-```SELECT
+   SELECT
    taxizone.Zone AS Zone,
    COUNT(*) AS numero_de_viajes,
    AVG(trip_miles) AS trip_miles,
