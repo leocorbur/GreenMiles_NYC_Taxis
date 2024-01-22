@@ -23,7 +23,7 @@ hiperparámetros con GridSearchCV y se obtuvo que las mejores variables son:
 * min_samples_split: 2
 * n_estimators: 200
 
-El modelo resultante tiene un R<sup>2<sup> de 0.95 y RMSE, como porcentaje del 
+El modelo resultante tiene un R<sup>2</sup> de 0.95 y RMSE, como porcentaje del 
 rango de datos, del 3.72%.
 
 Este modelo se deployó en Streamlit. Los datos temporales (fecha y hora) son 
@@ -53,5 +53,5 @@ a cada segmento.
 
 En función de los parámetros anteriores, el sistema determina la mejor estrategia
 de inversión, considerando factores como minimizar costes, maximizar alcance de
-los vehículos y minimizar sus emisiones de CO<sub>2<sub>, contribuyendo a las
+los vehículos y minimizar sus emisiones de CO<sub>2</sub>, contribuyendo a las
 normativas medioambientales y a la sustentabilidad del proyecto.
