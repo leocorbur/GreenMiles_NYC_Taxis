@@ -139,7 +139,7 @@ Se establecieron relaciones entre las tablas para facilitar el análisis de dato
 Relaciones:
 
 Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
-<p align="center"><img src="[src\EntidadRelacion.jpeg](https://github.com/rafaelalvarez702/GreenMiles_NYC_Taxis/blob/main/src/EntidadRelacion.jpeg)https://github.com/rafaelalvarez702/GreenMiles_NYC_Taxis/blob/main/src/EntidadRelacion.jpeg"></p>
+<p align="center"><"[src\EntidadRelacion.jpeg](https://github.com/rafaelalvarez702/GreenMiles_NYC_Taxis/blob/main/src/EntidadRelacion.jpeg)https://github.com/rafaelalvarez702/GreenMiles_NYC_Taxis/blob/main/src/EntidadRelacion.jpeg"></p>
 
 
 
