@@ -129,4 +129,10 @@ tlc.PULocationID = taxizone.LocationID
 GROUP BY
   taxizone.Zone;``` 
 
+## Modelado de Datos en Power BI ##
+Relaciones:
+
+Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
+
+[src=./src/CreativeData.png](../src/EntidadRelacion.jpeg)
 
