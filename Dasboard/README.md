@@ -11,6 +11,7 @@ Proyecto y Conjunto de Datos:
 El informe se conecta al proyecto "GreenMiles NYC Taxis" y utiliza el conjunto de datos "spheric-base-407402".
 
 Se implementó la siguiente consulta en bigquery para obtener datos específicos:
+
 ```
 01
 
@@ -127,13 +128,20 @@ INNER JOIN
 ON
 tlc.PULocationID = taxizone.LocationID
 GROUP BY
-  taxizone.Zone;``` 
+  taxizone.Zone;
+```   
+## Modelado de Datos en Power BI ##
+Relaciones:
+
+Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
 
 ## Modelado de Datos en Power BI ##
 Relaciones:
 
 Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
 <p align="center">  <img src="images/EntidadRelacion.jpeg"></p>
+
+
 
 
 
