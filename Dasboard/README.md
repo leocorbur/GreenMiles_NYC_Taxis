@@ -133,6 +133,7 @@ GROUP BY
 Relaciones:
 
 Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
+<p align="center">  <img src="images/EntidadRelacion.jpeg"></p>
 
-[src=./src/CreativeData.png](../src/EntidadRelacion.jpeg)
+
 
