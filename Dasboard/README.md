@@ -14,17 +14,17 @@ Se implementó la siguiente consulta en bigquery para obtener datos específicos
 
 01
 
-'''SELECT
-  taxizone.Zone AS Zone,
-  COUNT(*) AS numero_de_viajes,
-  AVG(trip_miles) AS trip_miles,
-  AVG(base_passenger_fare) AS base_passenger_fare
+''' SELECT
+   taxizone.Zone AS Zone,
+   COUNT(*) AS numero_de_viajes,
+   AVG(trip_miles) AS trip_miles,
+   AVG(base_passenger_fare) AS base_passenger_fare
 FROM
   `spheric-base-407402.nyc_taxis.tlc` AS tlc
   INNER JOIN `spheric-base-407402.nyc_taxis.taxizone` AS taxizone
   ON tlc.PULocationID = taxizone.LocationID
 GROUP BY
-  taxizone.Zone;'''
+  taxizone.Zone; '''
 
 02
 
