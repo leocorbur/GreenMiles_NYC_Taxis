@@ -1,6 +1,9 @@
 # Importar librerias estándar
 import pandas as pd
 import streamlit as st
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 # Cargar el df
 data_car = pd.read_excel("data_car_completa.xlsx")
@@ -75,7 +78,6 @@ def seleccionar_mejores_vehiculos(data_car, inversion_inicial, porcentaje_electr
     # Devolver los resultados para verificar en main()
     return resultados_agrupados
 
-# Aplicación Streamlit
 def main():
     st.title("Selección de Vehículos")
 
@@ -94,12 +96,35 @@ def main():
         # Verificar si la variable resultados es None antes de intentar acceder al atributo empty
         if resultados is not None:
             if not resultados.empty:
-                # st.write("\nVehículos Sugeridos y Cantidad:\n")  # No es necesario imprimir aquí, ya se hizo en la función
-                st.table(resultados[['Cantidad', 'Manufacturer', 'Model', 'fuelType', 'Price', 'Gama']])
+                st.table(resultados[['Cantidad', 'Gama', 'fuelType']])
+                
+                # Crear gráfico de barras
+                plt.figure(figsize=(10, 6))
+                sns.barplot(x='Gama', y='Cantidad', hue='fuelType', data=resultados)
+                plt.title("Distribución de la Flota")
+                plt.xlabel("Gama")
+                plt.ylabel("Cantidad de Vehículos")
+                st.pyplot(plt)
             else:
                 st.write("No se encontraron resultados para los criterios proporcionados.")
         else:
             st.write("Error al procesar los resultados. Por favor, verifica los parámetros proporcionados.")
+
+
+# Función para el gráfico
+def plot_chart(resultados):
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    # Usar Seaborn para un gráfico más agradable
+    sns.barplot(x='Gama', y='Cantidad', data=resultados, ax=ax)
+
+    # Configuraciones adicionales del gráfico
+    ax.set_xlabel('Gama')
+    ax.set_ylabel('Cantidad de Vehículos')
+    ax.set_title('Distribución de la Flota por Gama')
+
+    # Mostrar el gráfico en Streamlit
+    st.pyplot(fig)
 
 # Ejecutar la aplicación
 if __name__ == "__main__":
