@@ -142,4 +142,16 @@ Se establecieron relaciones entre las tablas para facilitar el análisis de dato
 <p align="center"><img src=./src/EntidadRelacion.jpeg></p>
 
 
+## Visualizaciones y Páginas ##
+Visualizaciones:
 
+Se utilizaron diversas visualizaciones, como gráficos de barras, tablas dinámicas y mapas, para representar los datos de manera efectiva.
+Páginas:
+
+Se crearon páginas específicas para organizar visualizaciones según categorías y temas.
+
+1. Viajes y tiempo e espera 
+<p align="center"><img src=./src/viajes.png></p>
+
+2. Demanda
+<p align="center"><img src=./src/demanda.png></p>
