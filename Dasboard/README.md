@@ -134,11 +134,6 @@ GROUP BY
 Relaciones:
 
 Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
-
-## Modelado de Datos en Power BI ##
-Relaciones:
-
-Se establecieron relaciones entre las tablas para facilitar el análisis de datos.
 <p align="center"><img src=./src/EntidadRelacion.jpeg></p>
 
 
@@ -155,3 +150,12 @@ Se crearon páginas específicas para organizar visualizaciones según categorí
 
 2. Demanda
 <p align="center"><img src=./src/demanda.png></p>
+
+3. Ambiente
+<p align="center"><img src=./src/ambiente.png></p>
+
+4. Autos
+<p align="center"><img src=./src/autos.png></p>
+
+5. Ingresos
+<p align="center"><img src=./src/ingresos.png></p>
