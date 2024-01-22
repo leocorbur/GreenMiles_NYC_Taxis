@@ -24,7 +24,7 @@ FROM
   INNER JOIN `spheric-base-407402.nyc_taxis.taxizone` AS taxizone
   ON tlc.PULocationID = taxizone.LocationID
 GROUP BY
-  taxizone.Zone;```
+  taxizone.Zone;
 
 02
 
@@ -127,6 +127,6 @@ INNER JOIN
 ON
 tlc.PULocationID = taxizone.LocationID
 GROUP BY
-  taxizone.Zone; 
+  taxizone.Zone;``` 
 
 
