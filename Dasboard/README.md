@@ -44,7 +44,8 @@ SELECT
   month,
   num_trips,
   LAG(num_trips) OVER (ORDER BY year, month) AS prev_month_trips,
-  ROUND((num_trips - LAG(num_trips) OVER (ORDER BY year, month)) / LAG(num_trips) OVER (ORDER BY year, month) * 100, 2) AS percent_difference
+  ROUND((num_trips - LAG(num_trips) OVER (ORDER BY year, month)) / 
+  LAG(num_trips) OVER (ORDER BY year, month) * 100, 2) AS percent_difference
 FROM
   MonthlyTrips
 ORDER BY
