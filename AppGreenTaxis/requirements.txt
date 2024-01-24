@@ -1,0 +1,14 @@
+
+streamlit
+requests
+streamlit-option-menu
+streamlit-lottie
+pandas
+openmeteo-requests
+requests-cache
+retry-requests
+plotly
+scikit-learn
+
+
+
