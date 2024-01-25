@@ -191,7 +191,7 @@ Se dispone la creación de una interfaz gráfica que agrupe todos los servicios 
 La interfaz gráfica se desarrolló exclusivamente con Streamlit, y mediante etiquetas de incrustación, se integraron los demás servicios presentes en este desarrollo y consultoría. Esto se llevó a cabo con el objetivo de optimizar la velocidad y agilizar el proceso al realizar consultas.
 
 
-<img width="500" alt="Captura de pantalla 2024-01-25 a la(s) 9 58 55 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/77544167-b967-47b2-9e57-a59de77576c2">
+![programas](https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/da5df15a-f9fa-402f-b79f-fde35b5f1b8d)
 
 
 
