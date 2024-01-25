@@ -11,7 +11,7 @@
 |  github.json|archivo de la animación github | 
 |  coding.json|archivo de la animación vehiculo electrico en carga | 
 |  green.png|logo | 
-|  equipo.png| | imagen de los desarrolladores| 
+|  equipo.png| imagen de los desarrolladores| 
 
 # Metodo.
 
