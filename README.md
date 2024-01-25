@@ -171,10 +171,10 @@ Además, el equipo está trabajando en un segundo modelo basado en programación
 
 
 # FROND-END. (AppGreenTaxis)
-## Archivos 
   
-| app.py    
+| archivos   |  
 | --------- | 
+| app.py| 
 | dockerfile | 
 | app-yaml|   
 |  gcloudignore.txt|  
