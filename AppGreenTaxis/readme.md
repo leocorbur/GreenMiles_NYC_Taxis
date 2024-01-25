@@ -5,7 +5,7 @@
 | --------- | -------------
 | app.py| archivo principal de la app | 
 | dockerfile | contenedor docker| 
-| app-yaml|   
+| app-yaml| archivo de configuración Google App Engine |  
 |  gcloudignore.txt|  
 |  requirements.txt|  
 |  github.json| 
