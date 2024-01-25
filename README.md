@@ -173,11 +173,18 @@ Además, el equipo está trabajando en un segundo modelo basado en programación
 # FROND-END. (AppGreenTaxis)
 ## Archivos 
   
-| archivos     
+| app.py    
 | --------- | 
-| app.py  | 
-| dokerfile |   
-|  app.yaml |   
+| dockerfile | 
+| app-yaml|   
+|  gcloudignore.txt|  
+|  requirements.txt|  
+|  github.json| 
+|  coding.json| 
+|  green.png| 
+|  equipo.png| 
+
+
 
 
 
