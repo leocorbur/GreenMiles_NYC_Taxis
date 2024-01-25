@@ -39,7 +39,8 @@ mercado.
 ## Optimización de la flota
 Al trabajar con una empresa que está buscando ingresar al mercado, y por lo
 tanto debe adquirir vehículos nuevos, este modelo funciona como un sistema de
-recomendación, orientando al inversión en función de distintas variables:
+recomendación, orientando al inversión en función de distintas variables:  
+
 * Inversión: se refiere al monto total, en dolares, que la empresa disponibiliza
 para la adquisición de nuevos vehículos.
 * Porcentaje de autos eléctricos: En función de las regulaciones de la ciudad de
@@ -51,7 +52,6 @@ transporte de pasajeros suelen estar en las gamas baja y media, este parámetro
 le permite al transportista determinar el porcentaje de la inversión destinada
 a cada segmento.
 
-En función de los parámetros anteriores, el sistema determina la mejor estrategia
-de inversión, considerando factores como minimizar costes, maximizar alcance de
-los vehículos y minimizar sus emisiones de CO<sub>2</sub>, contribuyendo a las
-normativas medioambientales y a la sustentabilidad del proyecto.
+Alimentando el sistema con datos sobre los vehículos, desde su rango de desplazamiento hasta sus emisiones de CO2 y precio, el modelo emplea algoritmos para determinar la combinación ideal que maximiza cada especificación según tus preferencias y criterios, considerando factores como minimizar costes, maximizar alcance de los vehículos y minimizar sus emisiones de CO<sub>2</sub>, contribuyendo a las normativas medioambientales y a la sustentabilidad del proyecto.
+
+Es esencial destacar la capacidad de nuestro modelo de optimización de flotas para escalar de manera efectiva. En este sentido, al momento de ampliar significativamente la base de datos, abarcando una variedad más extensa de vehículos, desde modelos recientes hasta opciones más antiguas, tanto de gasolina como eléctricos. Esta expansión no solo le permitirá al modelo manejar una mayor cantidad de datos, sino que también garantizará que continúe entregando de manera óptima la lista de los mejores vehículos para componer la flota. Esta capacidad única de adaptarse y optimizar las recomendaciones en función de la evolución del mercado automotriz asegura que las decisiones sobre la consolidación de la flota estén respaldadas por información actualizada y relevante.
