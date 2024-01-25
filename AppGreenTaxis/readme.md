@@ -30,7 +30,7 @@ La interfaz gráfica se desarrolló exclusivamente con Streamlit, y mediante eti
 <img width="1416" alt="Captura de pantalla 2024-01-25 a la(s) 10 41 45 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/6f730cd1-d13e-4656-a4aa-a623347b5437">
 
 ## Pestaña Predictor de Demanda
-<img width="1416" alt="Captura de pantalla 2024-01-25 a la(s) 10 41 45 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/6f730cd1-d13e-4656-a4aa-a623347b5437">
+<img width="1430" alt="Captura de pantalla 2024-01-22 a la(s) 2 49 09 p m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/4345cf8a-3294-44f4-826c-6a8922698627">
 
 
 ![programas](https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/da5df15a-f9fa-402f-b79f-fde35b5f1b8d)
