@@ -13,6 +13,8 @@ El equipo de trabajo se compone de los siguientes integrantes:
 -	Rafael Gabriel Alvarez Leon
 -	Jorge Andrés González Gómez
 
+
+
   La empresa Creative Technology ha sido contratada por Green Miles NYC con el propósito de evaluar la demanda de taxis eléctricos 
   y de combustible en la ciudad de Nueva York,teniendo en cuenta aspectos ambientales, precios de vehículos y contaminación, entre otros.
   La finalidad de esta evaluación es incorporar una flota mixta de taxis a la empresa Green Miles NYC.
