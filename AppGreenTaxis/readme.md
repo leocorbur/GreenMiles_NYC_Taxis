@@ -22,7 +22,7 @@ La interfaz gráfica se desarrolló exclusivamente con Streamlit, y mediante eti
 # Diseño de interfaz de usuario" (UI design).
 <img width="1439" alt="Captura de pantalla 2024-01-25 a la(s) 10 09 45 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/8226e78f-bc97-4728-a88b-f5e21db76a52">
 
-# diseño de experiencia de usuario" (UX design)
+# Diseño de experiencia de usuario" (UX design)
 
 
 
