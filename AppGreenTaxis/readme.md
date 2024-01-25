@@ -4,7 +4,7 @@
 | archivos   |  contenido  | 
 | --------- | -------------
 | app.py| archivo principal de la app | 
-| dockerfile | 
+| dockerfile | contenedor docker| 
 | app-yaml|   
 |  gcloudignore.txt|  
 |  requirements.txt|  
