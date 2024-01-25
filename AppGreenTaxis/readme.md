@@ -26,5 +26,8 @@ La interfaz gráfica se desarrolló exclusivamente con Streamlit, y mediante eti
 ## Menu lateral.
 <img width="301" alt="Captura de pantalla 2024-01-25 a la(s) 10 39 28 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/039f3fea-4c63-41b0-94b8-6c4ac8aa6094">
 
+## Pestaña de analitica
+<img width="1416" alt="Captura de pantalla 2024-01-25 a la(s) 10 41 45 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/6f730cd1-d13e-4656-a4aa-a623347b5437">
+
 
 ![programas](https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/da5df15a-f9fa-402f-b79f-fde35b5f1b8d)
