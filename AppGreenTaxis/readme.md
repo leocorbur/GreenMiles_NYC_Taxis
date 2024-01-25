@@ -3,7 +3,7 @@
   
 | archivos   |  
 | --------- | 
-| app.py| 
+| app.py| archivo principal de la app | 
 | dockerfile | 
 | app-yaml|   
 |  gcloudignore.txt|  
