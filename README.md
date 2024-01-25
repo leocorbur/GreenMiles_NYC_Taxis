@@ -190,7 +190,11 @@ Se dispone la creación de una interfaz gráfica que agrupe todos los servicios 
 
 La interfaz gráfica se desarrolló exclusivamente con Streamlit, y mediante etiquetas de incrustación, se integraron los demás servicios presentes en este desarrollo y consultoría. Esto se llevó a cabo con el objetivo de optimizar la velocidad y agilizar el proceso al realizar consultas.
 
-diseño de interfaz de usuario" (UI design).
+# diseño de interfaz de usuario" (UI design).
+<img width="1439" alt="Captura de pantalla 2024-01-25 a la(s) 10 09 45 a m" src="https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/8226e78f-bc97-4728-a88b-f5e21db76a52">
+
+
+
 
 
 
