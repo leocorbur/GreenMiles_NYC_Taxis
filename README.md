@@ -176,7 +176,6 @@ Además, el equipo está trabajando en un segundo modelo basado en programación
 
 
 
-![programas](https://github.com/leocorbur/GreenMiles_NYC_Taxis/assets/54252072/da5df15a-f9fa-402f-b79f-fde35b5f1b8d)
 
 
 
