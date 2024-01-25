@@ -1,190 +1,87 @@
-# <h1 align="center">**`GreenMiles NYC Taxis`**</h1>
+# <h1 align="center">*⁠ GreenMiles NYC Taxis ⁠*</h1>
 
-Somos **CREATIVE DATA TECHNOLOGY**, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
+Somos *CREATIVE DATA TECHNOLOGY*, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
 
 <p align=center><img src=./src/CreativeData.png><p>
 
-El equipo de trabajo se compone de los siguientes integrantes: 
--	Roberto Schaefer
--	Diego Sebastian Drajlin Gordon
--	Bruno Mangione
--	Leonel Tonatiuh Cortez Burgos
--	Rafael Gabriel Alvarez Leon
--	Jorge Andrés González Gómez
 
 
-# Introducción
+---
 
-GreenMiles NYC Taxis es una empresa de transporte de pasajeros de la ciudad de Nueva York, que actualmente se encuentra operando en el sector de micros de media y larga distancia y está interesada en invertir en el sector de transporte de pasajeros de automóviles. 
-La empresa nos ha contratado para analizar los movimientos de los taxis actuales en la ciudad de Nueva York, analizar datos históricos y las tendencias futuras del mercado, para que podamos acompañarlos en el proceso de la toma de decisión. 
+La empresa Creative Technology ha sido contratada por Green Miles NYC con el propósito de evaluar la demanda de taxis eléctricos y de combustible en la ciudad de Nueva York, teniendo en cuenta aspectos ambientales, precios de vehículos y contaminación, entre otros. La finalidad de esta evaluación es incorporar una flota mixta de taxis a la empresa Green Miles NYC.
 
-GreenMiles tiene una visión de un futuro menos contaminado y pretende que la inversión se ajuste a dicho modelo y las tendencias futuras en relación al cuidado del medioambiente. Para dicho trabajo la empresa nos provee una serie de datos principales y complementarios que debemos tener en cuenta a la hora de realizar nuestro trabajo y nos da libertad de acción para seleccionar y trabajar con los mismos.
+Nuestro equipo de Creative Tech se ha reunido para llevar a cabo la investigación, analizar el comportamiento vehicular y realizar predicciones que faciliten la toma de decisiones por parte de la empresa.
 
+En la actualidad, Green Miles NYC Taxi no cuenta con una flota de taxis, por lo que está explorando, a través de Creative Tech, la mejor forma de inversión y la viabilidad del proyecto.
 
-<p align=center><img src=./src/LogoGreenMiles.png width="400"><p>
+Creative Tech tiene la tarea de realizar un análisis detallado para la implementación de esta flota, considerando criterios como el comportamiento de viajes, la contaminación del aire y los efectos climatológicos. Este análisis contribuirá a la toma de decisiones estratégicas para lograr una inversión exitosa y sostenible en el mercado de transporte de taxis.
 
+# Dashboard
 
+En el análisis del comportamiento de los taxis en la ciudad de Nueva York, así como la evaluación de factores ambientales y la comparación entre autos a combustión y eléctricos, hemos identificado varios insights relevantes para el negocio:
 
-# Contexto
+1. Crecimiento Sostenido de Viajes:
+Se observó un crecimiento constante en la cantidad de viajes, indicando un aumento continuo en la demanda del servicio.
+(Insertar gráfico de cantidad de viajes por año)
+2. Tiempo de Espera del Cliente:
+El tiempo de espera promedio por cliente se encuentra en torno a 300 segundos (6 minutos).
+Se propuso un KPI para evaluar el desempeño, y se desarrolló un modelo de predicción de demanda para reducir el tiempo de espera.
+(Insertar imagen del KPI o gráfico relevante)
+3. Análisis de Demanda por Zona:
+Se estudió el comportamiento de la demanda por Borough y zonas para identificar áreas con mayor número de viajes.
+(Insertar mapa o gráfico de viajes por Borough)
+4. Impacto Ambiental:
+Se evaluó el historial climático para entender su relación con los viajes.
+Se comparó la producción de CO2 entre autos a combustión y eléctricos, destacando la importancia de considerar opciones más amigables con el medio ambiente.
+(Insertar imagen comparativa de la producción de CO2)
+5. Comparativa entre Autos:
+Se realizó una comparativa detallada entre precios y rendimiento de autos a combustión y eléctricos para determinar la mejor opción de inversión.
+(Insertar imagen de la comparativa de precios)
+6. Ingresos:
+Se calculó el ingreso promedio por viaje y el ingreso total, proponiendo un KPI para evaluar el incremento en los ingresos por mes.
+(Insertar imagen de ingresos)
+Conclusión:
+Los insights obtenidos del dashboard proporcionan una visión integral del rendimiento de la empresa de taxis en Nueva York. Se destaca la necesidad de implementar estrategias para reducir el tiempo de espera, considerar opciones de vehículos más amigables con el medio ambiente y evaluar continuamente las oportunidades de crecimiento de ingresos. La implementación de modelos predictivos y KPIs específicos será esencial para alcanzar los objetivos planteados y mejorar la eficiencia operativa en respuesta a la creciente demanda del servicio. Para obtener detalles más profundos, se invita a revisar el dashboard completo.
 
-En la ciudad de Nueva York, los servicios de taxis y viajes compartidos, como Uber, han transformado la movilidad urbana al ofrecer una alternativa conveniente y accesible al transporte público y al alquiler de automóviles. Estos servicios generan grandes cantidades de datos en tiempo real, que pueden ser analizados para identificar patrones de viaje, demanda y mejorar la eficiencia del servicio.
+# Modelos de Machine Learning
 
-Además, en respuesta al cambio climático acelerado por actividades humanas, la sostenibilidad se ha vuelto crucial en el desarrollo energético. Las compañías  y las autoridades locales de Nueva York están tomando medidas para medir y mejorar la eficiencia energética y reducir su impacto ambiental.
 
-En este sentido, hemos sido contratados por la empresa GreenMiles NYC, para el estudio e interpretación de los datos disponibles y libres en las distintas fuentes.
+# Ingeniería de Datos
 
-La propuesta contempla la implementación de vehículos eléctricos tomando en cuenta la iniciativa viajes verdes impulsada por la Comisión de Limusinas y Taxis de la Ciudad (TLC, por sus siglas en inglés) y establece que, a partir de 2024, Nueva York requerirá que el 5 % de todos los viajes de alquiler de gran volumen, se envíen a vehículos eléctricos. 
+En este proyecto, la ingeniería de datos ha sido fundamental para cumplir con las expectativas establecidas por los equipos de Analítica y Machine Learning.
 
-Ese punto de referencia aumentará al 15% en 2025 y al 25% en 2026. Los requisitos aumentarán anualmente en 20 puntos porcentuales hasta el final de la década, alcanzando el 100% en 2030. Sumado a esto existen una serie de incentivos Federales y Estatales que fomentan la adquisición de vehículos eléctricos.
+## Proceso de Ingeniería de Datos
 
-# Sprint 1
+En primer lugar, se llevó a cabo la **recopilación de datos** provenientes de diversas fuentes y en distintos formatos. Posteriormente, la información recopilada se **almacenó** de manera segura y eficiente. Luego, se procedió al **procesamiento** de datos mediante la extracción de información relevante y su transformación para adecuarla a las necesidades específicas del proyecto. Finalmente, la información procesada fue depositada en una **base de datos estructurada**, proporcionando una base sólida y eficiente para el manejo de grandes conjuntos de datos. Este enfoque integral de ingeniería de datos ha sido fundamental para lograr los objetivos del equipo de Analítica y Machine Learning.
 
-# Objetivo General
+## Herramientas Utilizadas
 
-Nuestro objetivo es realizar un análisis integral que respalde la posible expansión de la flota de vehículos de nuestra empresa cliente, evaluando la relación entre los medios de transporte particulares, la calidad del aire y la contaminación sonora en Nueva York. Con este análisis, pretendemos proporcionar una base sólida para la toma de decisiones, considerando la posible transición a vehículos eléctricos.
+Este flujo de trabajo ha sido implementado en la plataforma de Google Cloud, haciendo uso de los siguientes servicios:
 
-# Objetivos Específicos
+- Almacenamiento: **Cloud Storage**
+- Procesamiento: **Cloud Dataproc**
+- Base de Datos: **BigQuery**
+- Automatización: **Cloud Composer**
 
-1. Análisis de la Demanda
-   - Examinar y predecir patrones de demanda de servicios de taxi según la hora del día, día de la semana y condiciones climáticas.
-   - Identificar tendencias estacionales o eventos específicos que puedan influir en la demanda de servicios de transporte.
-   - Examinar el tiempo promedio de espera de los clientes.
+<p align=center><img src=./src/workflow.gif><p>
 
-2. Impacto Ambiental
-    - Evaluar el uso de vehiculos eléctricos con la finalidad de reducir las emisiones CO2 y la contaminacion sonoro.
-  
-2. Inversion
-   - Evaluar los diferentes modelos de vehículos eléctricos disponibles en el mercado, considerando aquellos que tengan un balance optimo entre costos y rendimiento.
-   - Estimar el retorno de la inversión basado en la transición a vehículos eléctricos, teniendo en cuenta factores como el ahorro en costos operativos y potenciales ingresos adicionales derivados de la percepción pública positiva.
+## Consumo de Datos
 
-# Alcance del Proyecto
+Una vez completada esta fase, los datos procesados y limpios fueron puestos a disposición de los usuarios de los equipos de Analítica y Machine Learning. Los usuarios han aprovechado las capacidades de BigQuery mediante **consultas**(queries) para trabajar directamente con sus datos. Estas capacidades se han integrado con herramientas como **Power Bi** y la plataforma **Streamlit**.
 
-- Analizar el desempeño de los servicios de transporte de alto volumen, como los proporcionados por las empresas Uber y Lyft, a partir del año 2020.
-- Estas compañías gestionan un flujo diario de más de 10,000 viajes en la ciudad de Nueva York.
-- Estos estudios no han incluido otros vehículos que ofrecen servicios similares, como los taxis tradicionales de color amarillo y verde.
-- Las diferencias entre los servicios de transporte de alto volumen y los taxis tradicionales se centran en aspectos como:
-  - El modelo de negocio
-  - Restricciones en las licencias
-  - Limitaciones para ingresar al mercado
-- Investigar las correlaciones entre el transporte de alto volumen y factores como las condiciones climáticas, la calidad del aire y la contaminación atmosférica.
-- Realizar un estudio de factibilidad economica respecto a la inversion en el sector y en el ROI. 
+## Integración de Resultados
 
-# Actividades
+Para consolidar los resultados obtenidos por los equipos mencionados anteriormente, se utilizó el servicio de **Cloud Run**. Este servicio ha facilitado el despliegue de las soluciones desarrolladas en Power Bi y Streamlit, permitiendo la unificación y presentación conjunta de los resultados.
 
-1. **Datos de Taxis:**
-- Utilizar datos de taxis y viajes compartidos en Nueva York.
-- Utilizar datos de taxis y/o vehículos eléctricos.
-2. **Calidad del Aire:**
-- Obtener datos de calidad del aire de fuentes gubernamentales o estaciones meteorológicas.
-- Integrar datos de contaminantes como CO2.
-3. **Contaminación Sonora:**
-- Utilizar datos de contaminación sonora en la ciudad, considerando zonas y horarios específicos.
-- Incluir mediciones de decibelios para evaluar el impacto sonoro.
-4. **Correlaciones Climáticas:**
-- Obtener información de fuentes APIs de datos climáticos históricos y actuales.
-- Analizar la relación entre eventos climáticos extremos, cambios en el transporte, la calidad del aire y la contaminación sonora.
+Este enfoque integral de ingeniería de datos ha proporcionado una base sólida para el análisis y la toma de decisiones, garantizando un flujo eficiente desde la recopilación inicial hasta la presentación final de los resultados.
 
-# Stack Tecnológico
+# Conclusiones
 
-En nuestro proyecto, hemos seleccionado cuidadosamente un stack tecnológico que combina eficiencia y potencia para abordar los desafíos en el análisis de datos y la toma de decisiones. A continuación, se detallan las principales tecnologías que integran nuestro stack:
+# Contribuciones
 
-1. **Google Cloud Platform (GCP):**
-   - Utilizaremos GCP como nuestra plataforma en la nube principal, aprovechando la confiabilidad y escalabilidad que ofrece. En particular, haremos uso de los siguientes servicios:
-
-2. **Cloud Storage:**
-   - Emplearemos Cloud Storage para el almacenamiento seguro y eficiente de nuestros conjuntos de datos. Configuraremos adecuadamente los permisos para garantizar la integridad y privacidad de la información.
-
-3. **Dataproc:**
-   - Aprovecharemos Dataproc para ejecutar nuestros scripts de Extracción, Transformación y Carga (ETL). Esta herramienta nos permitirá procesar grandes volúmenes de datos de manera distribuida y eficiente.
-
-4. **BigQuery:**
-   - Para la creación de nuestro DataWarehouse, confiaremos en BigQuery. Esta potente base de datos relacional nos proporcionará la capacidad de realizar consultas SQL rápidas y efectivas, facilitando el análisis y la extracción de información valiosa.
-
-5. **Streamlit:**
-   - Para la visualización de datos y el desarrollo de aplicaciones interactivas, hemos elegido Streamlit como nuestro framework principal. Su simplicidad y flexibilidad nos permitirán crear interfaces intuitivas y atractivas.
-
-Este stack tecnológico integral nos brinda las herramientas necesarias para gestionar grandes conjuntos de datos, realizar análisis complejos y presentar de manera efectiva los resultados a través de interfaces interactivas. Estamos comprometidos a aprovechar al máximo estas tecnologías para respaldar nuestro análisis y facilitar la toma de decisiones basada en datos.
-
-# KPIs Propuestos
-
-Se proponen los siguientes KPIs en una medición mensual:
-
--  🎯 Reducir el promedio de tiempo de espera del cliente para tomar un viaje 
--  🎯 Incrementar el numero de viajes en un 2% con respecto al mes anterior
--  🎯 Incrementar la ganancias por viajes en 2% con respecto al mes anterior
--  🎯 Reducir el promedio de emisiones de CO2 
-
-El siguiente KPI es de forma anual:
-
--  🎯 La flota de automóviles eléctricos se incremente en un 15% anualmente
--  🎯 El promedio de la autonomía de los vehículos sea > 300km
-
-# Diagrama de Gantt
-
-<p align=center><img src=./src/Diagrama-Gantt.jpg><p>
-
-# Matriz de Responsabilidades
-
-<p align=center><img src=./src/Matriz_de_Responsabilidades.jpg><p>
-
-# Roles y Responsabilidades:
-
--	Roberto Schaefer: Data Scientist / Machine Learning
--	Diego Sebastian Drajlin Gordon: Data Scientist / Machine Learning
--	Bruno Mangione: Data Analyst / Business Intelligence
--	Leonel Tonatiuh Cortez Burgos: Data Engineer
--	Rafael Gabriel Alvarez Leon: Data Analyst / Business Intelligence
--	Jorge Andrés González Gómez: Data Engineer
-
-# Información Adicional
-
-Este README será actualizado regularmente para reflejar nuestro progreso y resultados. ¡Acompáñanos en nuestro viaje hacia un futuro más verde y sostenible en el transporte urbano de Nueva York! 🌍🚖
-
-# Sprint 2
-
-## Data Engineer
-
-En el Sprint 2, el equipo de Data Engineering ha consolidado un sólido progreso en la implementación de soluciones para abordar los desafíos planteados en el análisis de datos. Centrándonos en el stack tecnológico previamente definido, hemos empleado Google Cloud Platform (GCP) como nuestra plataforma principal en la nube. Cloud Storage se ha utilizado de manera efectiva para almacenar y gestionar conjuntos de datos de manera segura.
-
-Dataproc ha demostrado ser instrumental para la ejecución eficiente de scripts ETL, a través del uso de PySpark, permitiéndonos procesar grandes volúmenes de datos de manera distribuida. En paralelo, hemos aprovechado las capacidades de BigQuery como base de datos relacional para la creación de nuestro DataWarehouse, facilitando la realización de consultas SQL rápidas y efectivas.
-
-<p align=center><img src=./src/Workflow.jpeg><p>
-
-## Data Analytics 
-
-En el Sprint 2, el equipo de DA, solicitó una primer reunión con el equipo de Data Engineer y Machine Learning para terminar de decidir que datasets se iba a utilizar tanto para la analítica como para los modelos de machine learning.
-A partir de allí, el equipo de DA tuvo reuniones y solicitudes de datos al equipo de DE, para que disponga de los datos en Big Query. Una vez disponibles lo datos en Big Query, el equipo de DA, inició el trabajo de armado de power bi, obteniendo los datos directamente de Big Query. Al haber demasiada cantidad de datos y power bi no sopórtalo, se decidió trabajar las tablas directamente en Big Query y luego conectarlas con power bi.
-Una vez obtenidas las tablas, se hicieron las relaciones y se comenzaron a trabajar en los diferentes dashboards y kpi planteados en el proyecto. 
-Para el sprint final, el equipo de DA, seguirá trabajo en el diseño de los dashboards y completará el análisis junto con el equipo de machine learning para entregar las mejores propuesta a nuestro cliente.
-
-<p align=center><img src=./src/EntidadRelacion.jpeg><p>
-
-## Machine Learning 
-
-En el Sprint 2, el equipo de machine learning, después de definir objetivos y modelos propuestos, inició el desarrollo del primer modelo. El mismo apunta a predecir la cantidad de vehículos necesarios durante ciertos periodos laborales, utilizando datos de fecha, día y hora almacenados en la tabla de vehículos de alto volumen en Big Query. De esta forma, la empresa ahorra dinero al no tener autos ociosos recorriendo las calles. Estos datos fueron procesados en un Jupyter Notebook usando Python y librerias como Pandas y Scikit-learn y el modelo se disponibilizó a través de Streamlit para la interacción con el usuario final.
-
-La siguiente fase implica la integración de una nueva variable: el clima. Se analizará cómo las condiciones meteorológicas, como la lluvia o la nieve, afectan la necesidad de vehículos. Este análisis permitirá mejorar la precisión del modelo al considerar factores climáticos.
-
-Además, el equipo está trabajando en un segundo modelo basado en programación lineal. El objetivo de este modelo es optimizar la composición de la flota de taxis, considerando restricciones como la menor emisión de CO2, mayor rango de desplazamiento y costo del vehículo. La optimización se realiza en función de la cantidad de inversión disponible y el porcentaje destinado a vehículos eléctricos.
-
-<p align=center><img src=./src/Streamlit.jpeg><p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- ⁠Roberto Schaefer
+- ⁠Diego Sebastian Drajlin Gordon
+- Bruno Mangione
+- ⁠Leonel Tonatiuh Cortez Burgos
+- ⁠Rafael Gabriel Alvarez Leon
+- ⁠Jorge Andrés González Gómez
