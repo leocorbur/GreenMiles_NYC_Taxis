@@ -7,11 +7,11 @@
 | dockerfile | contenedor docker| 
 | app-yaml| archivo de configuración Google App Engine |  
 |  gcloudignore.txt|  archivos a ignorar | 
-|  requirements.txt|  
-|  github.json| 
-|  coding.json| 
-|  green.png| 
-|  equipo.png| 
+|  requirements.txt| Bibliotecas instaladas  | 
+|  github.json|archivo de la animación github | 
+|  coding.json|archivo de la animación vehiculo electrico en carga | 
+|  green.png|logo | 
+|  equipo.png| | imagen de los desarrolladores| 
 
 # Metodo.
 
