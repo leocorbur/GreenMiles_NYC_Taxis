@@ -1,8 +1,8 @@
 
 # FROND-END. (AppGreenTaxis)
   
-| archivos   |  
-| --------- | 
+| archivos   |  contenido  | 
+| --------- | -------------
 | app.py| archivo principal de la app | 
 | dockerfile | 
 | app-yaml|   
