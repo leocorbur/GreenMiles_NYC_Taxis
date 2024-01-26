@@ -114,6 +114,8 @@ Alimentando el sistema con datos sobre los vehículos, desde su rango de desplaz
 
 Es esencial destacar la capacidad de nuestro modelo de optimización de flotas para escalar de manera efectiva. En este sentido, al momento de ampliar significativamente la base de datos, abarcando una variedad más extensa de vehículos, desde modelos recientes hasta opciones más antiguas, tanto de gasolina como eléctricos. Esta expansión no solo le permitirá al modelo manejar una mayor cantidad de datos, sino que también garantizará que continúe entregando de manera óptima la lista de los mejores vehículos para componer la flota. Esta capacidad única de adaptarse y optimizar las recomendaciones en función de la evolución del mercado automotriz asegura que las decisiones sobre la consolidación de la flota estén respaldadas por información actualizada y relevante.
 
+<p align=center><img src=./src/optimizacion_flota.gif><p>
+
 # Ingeniería de Datos
 
 En este proyecto, la ingeniería de datos ha sido fundamental para cumplir con las expectativas establecidas por los equipos de Analítica y Machine Learning.
