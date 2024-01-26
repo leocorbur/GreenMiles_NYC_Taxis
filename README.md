@@ -29,7 +29,7 @@ Se observó un crecimiento constante en la cantidad de viajes, indicando un aume
 El tiempo de espera promedio por cliente se encuentra en torno a 300 segundos (6 minutos).
 Se propuso un KPI para evaluar el desempeño, y se desarrolló un modelo de predicción de demanda para reducir el tiempo de espera.
 
-<p align=center><img src=./src/tiempoespera.png><p>
+<p align=center><img src=./src/tespera.png><p>
 
 3. Análisis de Demanda por Zona:
 Se estudió el comportamiento de la demanda por Borough y zonas para identificar áreas con mayor número de viajes.
