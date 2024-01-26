@@ -22,25 +22,37 @@ En el análisis del comportamiento de los taxis en la ciudad de Nueva York, así
 
 1. Crecimiento Sostenido de Viajes:
 Se observó un crecimiento constante en la cantidad de viajes, indicando un aumento continuo en la demanda del servicio.
-(Insertar gráfico de cantidad de viajes por año)
+
+<p align=center><img src=./src/viajesaño.png><p>
+
 2. Tiempo de Espera del Cliente:
 El tiempo de espera promedio por cliente se encuentra en torno a 300 segundos (6 minutos).
 Se propuso un KPI para evaluar el desempeño, y se desarrolló un modelo de predicción de demanda para reducir el tiempo de espera.
-(Insertar imagen del KPI o gráfico relevante)
+
+<p align=center><img src=./src/tespera.png><p>
+
 3. Análisis de Demanda por Zona:
 Se estudió el comportamiento de la demanda por Borough y zonas para identificar áreas con mayor número de viajes.
-(Insertar mapa o gráfico de viajes por Borough)
+
+<p align=center><img src=./src/demanda.png><p>
+
 4. Impacto Ambiental:
 Se evaluó el historial climático para entender su relación con los viajes.
 Se comparó la producción de CO2 entre autos a combustión y eléctricos, destacando la importancia de considerar opciones más amigables con el medio ambiente.
-(Insertar imagen comparativa de la producción de CO2)
+
+<p align=center><img src=./src/ambiente.png><p>
+
 5. Comparativa entre Autos:
 Se realizó una comparativa detallada entre precios y rendimiento de autos a combustión y eléctricos para determinar la mejor opción de inversión.
-(Insertar imagen de la comparativa de precios)
+
+<p align=center><img src=./src/autos.png><p>
+
 6. Ingresos:
 Se calculó el ingreso promedio por viaje y el ingreso total, proponiendo un KPI para evaluar el incremento en los ingresos por mes.
-(Insertar imagen de ingresos)
-Conclusión:
+
+<p align=center><img src=./src/ingresos.png><p>
+
+
 Los insights obtenidos del dashboard proporcionan una visión integral del rendimiento de la empresa de taxis en Nueva York. Se destaca la necesidad de implementar estrategias para reducir el tiempo de espera, considerar opciones de vehículos más amigables con el medio ambiente y evaluar continuamente las oportunidades de crecimiento de ingresos. La implementación de modelos predictivos y KPIs específicos será esencial para alcanzar los objetivos planteados y mejorar la eficiencia operativa en respuesta a la creciente demanda del servicio. Para obtener detalles más profundos, se invita a revisar el dashboard completo.
 
 # Modelos de Machine Learning
