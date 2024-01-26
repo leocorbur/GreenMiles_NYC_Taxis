@@ -1,6 +1,6 @@
-# <h1 align="center">*⁠ GreenMiles NYC Taxis ⁠*</h1>
+# <h1 align="center">⁠GreenMiles NYC Taxis</h1>
 
-Somos *CREATIVE DATA TECHNOLOGY*, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
+Somos **CREATIVE DATA TECHNOLOGY**, una empresa joven especializada en el proceso integral de Análisis de Proyectos. Desde la concepción de estructuras de datos adaptadas a las necesidades empresariales hasta el diseño de modelos de predicción mediante Machine Learning.
 
 <p align=center><img src=./src/CreativeData.png><p>
 
@@ -8,13 +8,13 @@ Somos *CREATIVE DATA TECHNOLOGY*, una empresa joven que se dedica al proceso com
 
 ---
 
-La empresa Creative Technology ha sido contratada por Green Miles NYC con el propósito de evaluar la demanda de taxis eléctricos y de combustible en la ciudad de Nueva York, teniendo en cuenta aspectos ambientales, precios de vehículos y contaminación, entre otros. La finalidad de esta evaluación es incorporar una flota mixta de taxis a la empresa Green Miles NYC.
+La empresa Creative Data Technology ha sido seleccionada por Green Miles NYC Taxis con el propósito de evaluar la demanda de taxis eléctricos y de combustible en la ciudad de Nueva York, considerando factores ambientales, precios de vehículos y niveles de contaminación, entre otros. El objetivo de esta evaluación es introducir una flota diversificada de taxis en la empresa Green Miles NYC.
 
-Nuestro equipo de Creative Tech se ha reunido para llevar a cabo la investigación, analizar el comportamiento vehicular y realizar predicciones que faciliten la toma de decisiones por parte de la empresa.
+Nuestro equipo en Creative Data Technology se ha congregado para llevar a cabo esta investigación, analizando el comportamiento vehicular y generando predicciones que facilitarán la toma de decisiones de la empresa.
 
-En la actualidad, Green Miles NYC Taxi no cuenta con una flota de taxis, por lo que está explorando, a través de Creative Tech, la mejor forma de inversión y la viabilidad del proyecto.
+Actualmente, Green Miles NYC Taxis no dispone de una flota de taxis, por lo que, a través de Creative Data Technology, busca la mejor estrategia de inversión y evalúa la viabilidad del proyecto.
 
-Creative Tech tiene la tarea de realizar un análisis detallado para la implementación de esta flota, considerando criterios como el comportamiento de viajes, la contaminación del aire y los efectos climatológicos. Este análisis contribuirá a la toma de decisiones estratégicas para lograr una inversión exitosa y sostenible en el mercado de transporte de taxis.
+Creative Data Technology se ha encargado de realizar un análisis exhaustivo para la implementación de esta flota, teniendo en cuenta criterios como el comportamiento de los viajes, la calidad del aire y los efectos climáticos. Este análisis contribuirá significativamente a la toma de decisiones estratégicas, con el objetivo de lograr una inversión exitosa y sostenible en el mercado del transporte de taxis.
 
 # Dashboard
 
@@ -22,25 +22,37 @@ En el análisis del comportamiento de los taxis en la ciudad de Nueva York, así
 
 1. Crecimiento Sostenido de Viajes:
 Se observó un crecimiento constante en la cantidad de viajes, indicando un aumento continuo en la demanda del servicio.
-(Insertar gráfico de cantidad de viajes por año)
+
+<p align=center><img src=./src/viajesaño.png><p>
+
 2. Tiempo de Espera del Cliente:
 El tiempo de espera promedio por cliente se encuentra en torno a 300 segundos (6 minutos).
 Se propuso un KPI para evaluar el desempeño, y se desarrolló un modelo de predicción de demanda para reducir el tiempo de espera.
-(Insertar imagen del KPI o gráfico relevante)
+
+<p align=center><img src=./src/tespera.png><p>
+
 3. Análisis de Demanda por Zona:
 Se estudió el comportamiento de la demanda por Borough y zonas para identificar áreas con mayor número de viajes.
-(Insertar mapa o gráfico de viajes por Borough)
+
+<p align=center><img src=./src/demanda.png><p>
+
 4. Impacto Ambiental:
 Se evaluó el historial climático para entender su relación con los viajes.
 Se comparó la producción de CO2 entre autos a combustión y eléctricos, destacando la importancia de considerar opciones más amigables con el medio ambiente.
-(Insertar imagen comparativa de la producción de CO2)
+
+<p align=center><img src=./src/ambiente.png><p>
+
 5. Comparativa entre Autos:
 Se realizó una comparativa detallada entre precios y rendimiento de autos a combustión y eléctricos para determinar la mejor opción de inversión.
-(Insertar imagen de la comparativa de precios)
+
+<p align=center><img src=./src/autos.png><p>
+
 6. Ingresos:
 Se calculó el ingreso promedio por viaje y el ingreso total, proponiendo un KPI para evaluar el incremento en los ingresos por mes.
-(Insertar imagen de ingresos)
-Conclusión:
+
+<p align=center><img src=./src/ingresos.png><p>
+
+
 Los insights obtenidos del dashboard proporcionan una visión integral del rendimiento de la empresa de taxis en Nueva York. Se destaca la necesidad de implementar estrategias para reducir el tiempo de espera, considerar opciones de vehículos más amigables con el medio ambiente y evaluar continuamente las oportunidades de crecimiento de ingresos. La implementación de modelos predictivos y KPIs específicos será esencial para alcanzar los objetivos planteados y mejorar la eficiencia operativa en respuesta a la creciente demanda del servicio. Para obtener detalles más profundos, se invita a revisar el dashboard completo.
 
 # Modelos de Machine Learning
@@ -78,10 +90,13 @@ Este enfoque integral de ingeniería de datos ha proporcionado una base sólida 
 # Conclusiones
 
 # Contribuciones
+<p align=center><img src=./src/developers.png><p>
 
-- ⁠Roberto Schaefer
-- ⁠Diego Sebastian Drajlin Gordon
-- Bruno Mangione
-- ⁠Leonel Tonatiuh Cortez Burgos
-- ⁠Rafael Gabriel Alvarez Leon
-- ⁠Jorge Andrés González Gómez
+#### Perfiles de GitHub
+
+- [⁠Roberto Schaefer](https://github.com/roscha10)
+- [⁠Sebastian Drajlin](https://github.com/dsdrajlin)
+- [Bruno Mangione](https://github.com/brunomangione)
+- [⁠Leonel Cortez](https://github.com/leocorbur)
+- [⁠Rafael Alvarez](https://github.com/rafaelalvarez702)
+- [⁠Jorge González](https://github.com/teamlider)
