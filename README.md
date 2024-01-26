@@ -149,6 +149,17 @@ Este enfoque integral de ingeniería de datos ha proporcionado una base sólida 
 
 # Conclusiones
 
+<p align=center><img src=Dasboard/src/PlanInversion.jpg><p>
+
+---
+
+Nuestro producto cuenta con herramientas clave para la toma de decisiones basadas en datos. Por un lado, proporciona herramientas de análisis a través de dashboards y KPIs para un seguimiento efectivo de la información recolectada, lo que permite entender y adaptarse a las cambiantes necesidades del mercado. Por otro lado, ofrece dos soluciones de Machine Learning: predicción de la demanda de vehículos y optimización de la flota.
+
+A partir de estos recursos y las conclusiones obtenidas, determinamos que una inversión inicial de 40 millones de dólares nos permitiría adquirir 1383 autos, cumpliendo con la normativa de Nueva York a partir del 2024, que requiere que al menos el 5 % de todos los viajes de alquiler de gran volumen, incluidos los de Uber y Lyft, se realicen en vehículos eléctricos o vehículos accesibles para sillas de ruedas. Este punto de referencia aumentará al 15% en 2025 y al 25% en 2026. Con esta cantidad de vehículos, superaríamos los 10,000 viajes diarios mínimos requeridos para ser considerados una empresa de High Volume. Esto nos posiciona para ofrecer un servicio óptimo y competitivo en un mercado en crecimiento.
+
+Además, consideramos que es un mercado altamente competitivo donde la disponibilidad inmediata de vehículos para traslados juega un papel crucial, la cantidad de autos registrados es fundamental. Con el número de autos que proyectamos adquirir, estamos bien posicionados para ofrecer un servicio óptimo y seguir creciendo paulatinamente.
+
+  
 # Contribuciones
 <p align=center><img src=./src/developers.png><p>
 
