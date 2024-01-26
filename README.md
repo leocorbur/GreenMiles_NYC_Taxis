@@ -1,4 +1,4 @@
-# <h1 align="center">*⁠ GreenMiles NYC Taxis ⁠*</h1>
+# <h1 align="center">⁠GreenMiles NYC Taxis</h1>
 
 Somos *CREATIVE DATA TECHNOLOGY*, una empresa joven que se dedica al proceso completo de Análisis de Proyectos, desde el diseño de una estructura de datos adecuados para la empresa hasta el diseño de un modelo de predicción de Machine Learning.
 
@@ -90,10 +90,13 @@ Este enfoque integral de ingeniería de datos ha proporcionado una base sólida 
 # Conclusiones
 
 # Contribuciones
+<p align=center><img src=./src/developers.png><p>
 
-- ⁠Roberto Schaefer
-- ⁠Diego Sebastian Drajlin Gordon
-- Bruno Mangione
-- ⁠Leonel Tonatiuh Cortez Burgos
-- ⁠Rafael Gabriel Alvarez Leon
-- ⁠Jorge Andrés González Gómez
+#### Perfiles de GitHub
+
+- [⁠Roberto Schaefer](https://github.com/roscha10)
+- [⁠Sebastian Drajlin](https://github.com/dsdrajlin)
+- [Bruno Mangione](https://github.com/brunomangione)
+- [⁠Leonel Cortez](https://github.com/leocorbur)
+- [⁠Rafael Alvarez](https://github.com/rafaelalvarez702)
+- [⁠Jorge González](https://github.com/teamlider)
