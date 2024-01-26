@@ -94,6 +94,8 @@ tendencia diaria. Con esta información, la empresa podrá adecuar la oferta de
 vehículos en la calle en función de su disponibilidad y de las necesidades del
 mercado.
 
+<p align=center><img src=./src/prediccion_demanda.gif><p>
+
 ## Optimización de la flota
 Al trabajar con una empresa que está buscando ingresar al mercado, y por lo
 tanto debe adquirir vehículos nuevos, este modelo funciona como un sistema de
