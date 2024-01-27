@@ -147,6 +147,8 @@ Para consolidar los resultados obtenidos por los equipos mencionados anteriormen
 
 Este enfoque integral de ingeniería de datos ha proporcionado una base sólida para el análisis y la toma de decisiones, garantizando un flujo eficiente desde la recopilación inicial hasta la presentación final de los resultados.
 
+Para obtener más detalles sobre el procesamiento, se puede explorar la carpeta [gcp](https://github.com/leocorbur/GreenMiles_NYC_Taxis/tree/main/gcp) y visualizar el proceso a través del video disponible [aquí](https://www.youtube.com/watch?v=DkJ5IzbSARo)
+
 # Conclusiones
 
 <p align=center><img src=Dasboard/src/PlanInversion.jpg><p>
