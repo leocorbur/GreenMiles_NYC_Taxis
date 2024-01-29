@@ -147,8 +147,21 @@ Para consolidar los resultados obtenidos por los equipos mencionados anteriormen
 
 Este enfoque integral de ingeniería de datos ha proporcionado una base sólida para el análisis y la toma de decisiones, garantizando un flujo eficiente desde la recopilación inicial hasta la presentación final de los resultados.
 
+Para obtener más detalles sobre el procesamiento, se puede explorar la carpeta [gcp](https://github.com/leocorbur/GreenMiles_NYC_Taxis/tree/main/gcp) y visualizar el proceso a través del video disponible [aquí](https://www.youtube.com/watch?v=DkJ5IzbSARo).
+
 # Conclusiones
 
+<p align=center><img src=Dasboard/src/PlanInversion.jpg><p>
+
+---
+
+Nuestro producto cuenta con herramientas clave para la toma de decisiones basadas en datos. Por un lado, proporciona herramientas de análisis a través de dashboards y KPIs para un seguimiento efectivo de la información recolectada, lo que permite entender y adaptarse a las cambiantes necesidades del mercado. Por otro lado, ofrece dos soluciones de Machine Learning: predicción de la demanda de vehículos y optimización de la flota.
+
+A partir de estos recursos y las conclusiones obtenidas, determinamos que una inversión inicial de 40 millones de dólares nos permitiría adquirir 1383 autos, cumpliendo con la normativa de Nueva York a partir del 2024, que requiere que al menos el 5 % de todos los viajes de alquiler de gran volumen, incluidos los de Uber y Lyft, se realicen en vehículos eléctricos o vehículos accesibles para sillas de ruedas. Este punto de referencia aumentará al 15% en 2025 y al 25% en 2026. Con esta cantidad de vehículos, superaríamos los 10,000 viajes diarios mínimos requeridos para ser considerados una empresa de High Volume. Esto nos posiciona para ofrecer un servicio óptimo y competitivo en un mercado en crecimiento.
+
+Además, consideramos que es un mercado altamente competitivo donde la disponibilidad inmediata de vehículos para traslados juega un papel crucial, la cantidad de autos registrados es fundamental. Con el número de autos que proyectamos adquirir, estamos bien posicionados para ofrecer un servicio óptimo y seguir creciendo paulatinamente.
+
+  
 # Contribuciones
 <p align=center><img src=./src/developers.png><p>
 
@@ -160,3 +173,5 @@ Este enfoque integral de ingeniería de datos ha proporcionado una base sólida 
 - [⁠Leonel Cortez](https://github.com/leocorbur)
 - [⁠Rafael Alvarez](https://github.com/rafaelalvarez702)
 - [⁠Jorge González](https://github.com/teamlider)
+
+#### [Link al Deploy](https://spheric-base-407402.uc.r.appspot.com)
